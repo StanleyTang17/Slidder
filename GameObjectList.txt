@@ -1,0 +1,8 @@
+Player
+Spike
+Stalactite
+items.ExitKey
+ExitDoor
+LockedExitDoor
+Turret
+items.SugarCubes
